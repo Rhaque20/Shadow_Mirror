@@ -1,0 +1,298 @@
+fileFormatVersion: 2
+guid: b29bd46a0dba4f14885c05519d63dbd9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MooseWalk_Light_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 692
+        width: 627
+        height: 692
+      alignment: 9
+      pivot: {x: 0.32, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0900f14f0c10f0e489a7aa1f890a849a
+      internalID: 117385648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MooseWalk_Light_1
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 692
+        width: 627
+        height: 692
+      alignment: 9
+      pivot: {x: 0.32, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b799f7639c94b5a449b348fab2f1de18
+      internalID: 1228444745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MooseWalk_Light_2
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 692
+        width: 627
+        height: 692
+      alignment: 9
+      pivot: {x: 0.32, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde778123f1f722458fda2f38f8b9c27
+      internalID: 838232473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MooseWalk_Light_3
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 692
+        width: 627
+        height: 692
+      alignment: 9
+      pivot: {x: 0.32, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f9a85435848ba45b2b568ed18cb7e9
+      internalID: 488703166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MooseWalk_Light_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 627
+        height: 692
+      alignment: 9
+      pivot: {x: 0.32, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d3d65c493fd17458ad5cab11ea6028
+      internalID: 549354705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MooseWalk_Light_5
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 0
+        width: 627
+        height: 692
+      alignment: 9
+      pivot: {x: 0.32, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28747fdfc8db6c54b87b0c53e092dbc9
+      internalID: -637264353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MooseWalk_Light_6
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 0
+        width: 627
+        height: 692
+      alignment: 9
+      pivot: {x: 0.32, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9c38a8992862843a2dd61d1d940b20
+      internalID: 1495136052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MooseWalk_Light_7
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 0
+        width: 627
+        height: 692
+      alignment: 9
+      pivot: {x: 0.32, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25c2999e9f4ba240836a325364f2d07
+      internalID: 1199614348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MooseWalk_Light_2: 838232473
+      MooseWalk_Light_0: 117385648
+      MooseWalk_Light_6: 1495136052
+      MooseWalk_Light_4: 549354705
+      MooseWalk_Light_5: -637264353
+      MooseWalk_Light_1: 1228444745
+      MooseWalk_Light_7: 1199614348
+      MooseWalk_Light_3: 488703166
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

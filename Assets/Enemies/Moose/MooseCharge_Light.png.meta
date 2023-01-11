@@ -1,0 +1,408 @@
+fileFormatVersion: 2
+guid: ea70272143be28847be6a2c894cc0051
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MooseCharge_Light_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1656
+        width: 835
+        height: 828
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c2c1845924a864aa07008a381e8eeb
+      internalID: 364459295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MooseCharge_Light_1
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 1656
+        width: 835
+        height: 828
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5a56a8b8c624047a5ac21ac8eec0f0
+      internalID: -2126947455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MooseCharge_Light_2
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 1656
+        width: 835
+        height: 828
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1797acf6b15bd43b7b2c5a61e2a435
+      internalID: -1895730401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MooseCharge_Light_3
+      rect:
+        serializedVersion: 2
+        x: 2505
+        y: 1656
+        width: 835
+        height: 828
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc916fe1c45acf46871b085bd0052f8
+      internalID: -452345093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MooseCharge_Light_4
+      rect:
+        serializedVersion: 2
+        x: 3340
+        y: 1656
+        width: 835
+        height: 828
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba0dd4797cd33c47845b9342477b6ab
+      internalID: -910977582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MooseCharge_Light_5
+      rect:
+        serializedVersion: 2
+        x: 4175
+        y: 1656
+        width: 835
+        height: 828
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61ab3e792d7acc4dbe9fc61985256df
+      internalID: 2085410846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MooseCharge_Light_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 828
+        width: 835
+        height: 828
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b1a16fede55fb45bfdd70f1e211cc7
+      internalID: -722667668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MooseCharge_Light_7
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 828
+        width: 835
+        height: 828
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c2a903bb557e8488c95e7a2a437827
+      internalID: -1972418520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MooseCharge_Light_8
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 828
+        width: 835
+        height: 828
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d8d2519c7cda94d83f075427eab5c7
+      internalID: 124815396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MooseCharge_Light_9
+      rect:
+        serializedVersion: 2
+        x: 2505
+        y: 828
+        width: 835
+        height: 828
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd703fbcae531a498186a48733f7779
+      internalID: -1747366621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MooseCharge_Light_10
+      rect:
+        serializedVersion: 2
+        x: 3340
+        y: 828
+        width: 835
+        height: 828
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7cd5060496a3bf43a3318ad446ca22d
+      internalID: 860904828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MooseCharge_Light_11
+      rect:
+        serializedVersion: 2
+        x: 4175
+        y: 828
+        width: 835
+        height: 828
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c555f729741a7d347bcc451c25737613
+      internalID: -2129763414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MooseCharge_Light_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 835
+        height: 828
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9982934f9a7a89e4cb01063db6c19831
+      internalID: -420634069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MooseCharge_Light_6: -722667668
+      MooseCharge_Light_10: 860904828
+      MooseCharge_Light_11: -2129763414
+      MooseCharge_Light_7: -1972418520
+      MooseCharge_Light_12: -420634069
+      MooseCharge_Light_1: -2126947455
+      MooseCharge_Light_0: 364459295
+      MooseCharge_Light_3: -452345093
+      MooseCharge_Light_5: 2085410846
+      MooseCharge_Light_2: -1895730401
+      MooseCharge_Light_9: -1747366621
+      MooseCharge_Light_8: 124815396
+      MooseCharge_Light_4: -910977582
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

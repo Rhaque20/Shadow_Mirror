@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d76cd5094df5174d9615e48fbaf2c55, type: 3}
+  m_Name: Glacial_Charge
+  m_EditorClassIdentifier: 
+  name: Glacial Charge
+  power: 1.2
+  Icon: {fileID: 0}
+  targetZone:
+    serializedVersion: 2
+    m_Bits: 64
+  spCost: 0
+  spGain: 0
+  ATKSPD: 0.8
+  attackAnim:
+  - {fileID: 7400000, guid: 7ee1be02a09367c4a9d3f6045343fcbb, type: 2}
+  - {fileID: 7400000, guid: f8791982053280c48984d1408abcdcf6, type: 2}
+  chains: []
+  chainLevel: 
+  showTelegraph: 1
+  affinity: 4
+  aim: 1
+  numMarkers: 1
+  markerScales:
+  - {x: 4, y: 2}
+  strong: 00
+  useAnimLength: 1

@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ground
+  - wall
+  - enemy
+  - obstacle
+  - puppet
+  - CenterMarker
+  - vwall
+  - Button
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - enemy
+  - obstacle
+  - area1
+  - obstacle2
+  - area2
+  - obstacle3
+  - area3
+  - boundary
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2629170847
+    locked: 0
+  - name: Lighting
+    uniqueID: 2084004629
+    locked: 0
+  - name: Foreground
+    uniqueID: 2133835723
+    locked: 0
+  - name: Effects
+    uniqueID: 235006101
+    locked: 0
+  - name: Damage_Num
+    uniqueID: 4165180411
+    locked: 0

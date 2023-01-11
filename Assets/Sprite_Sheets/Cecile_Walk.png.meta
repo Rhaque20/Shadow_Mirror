@@ -1,0 +1,435 @@
+fileFormatVersion: 2
+guid: 78f72858eb363ae4989f3df862c824a4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -830063388655368686
+    second: Cecile_Walk_0
+  - first:
+      213: 8664500452815858752
+    second: Cecile_Walk_1
+  - first:
+      213: -636620749372177341
+    second: Cecile_Walk_2
+  - first:
+      213: -4139361941662552365
+    second: Cecile_Walk_3
+  - first:
+      213: -5454742286028295232
+    second: Cecile_Walk_4
+  - first:
+      213: -2273929583560448338
+    second: Cecile_Walk_5
+  - first:
+      213: 7084896357900784772
+    second: Cecile_Walk_6
+  - first:
+      213: -7888824920488118323
+    second: Cecile_Walk_7
+  - first:
+      213: -7689476774493818555
+    second: Cecile_Walk_8
+  - first:
+      213: 5598024427028462735
+    second: Cecile_Walk_9
+  - first:
+      213: -5416952964944860368
+    second: Cecile_Walk_10
+  - first:
+      213: 8454080191052495214
+    second: Cecile_Walk_11
+  - first:
+      213: -861688899930694232
+    second: Cecile_Walk_12
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cecile_Walk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1084
+        width: 380
+        height: 542
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216c322feb50b74f0800000000000000
+      internalID: -830063388655368686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cecile_Walk_1
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1084
+        width: 380
+        height: 542
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04cec4e514d7e3870800000000000000
+      internalID: 8664500452815858752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cecile_Walk_2
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1084
+        width: 380
+        height: 542
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34447092dc44a27f0800000000000000
+      internalID: -636620749372177341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cecile_Walk_3
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 1084
+        width: 380
+        height: 542
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3deae6ece380e86c0800000000000000
+      internalID: -4139361941662552365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cecile_Walk_4
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 1084
+        width: 380
+        height: 542
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c33bf39accdc44b0800000000000000
+      internalID: -5454742286028295232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cecile_Walk_5
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 1084
+        width: 380
+        height: 542
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6a0af67116170e0800000000000000
+      internalID: -2273929583560448338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cecile_Walk_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 542
+        width: 380
+        height: 542
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484922b33bb925260800000000000000
+      internalID: 7084896357900784772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cecile_Walk_7
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 542
+        width: 380
+        height: 542
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc77e071883458290800000000000000
+      internalID: -7888824920488118323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cecile_Walk_8
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 542
+        width: 380
+        height: 542
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541fdab3d9d794590800000000000000
+      internalID: -7689476774493818555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cecile_Walk_9
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 542
+        width: 380
+        height: 542
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8cbdf88e8d20bd40800000000000000
+      internalID: 5598024427028462735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cecile_Walk_10
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 542
+        width: 380
+        height: 542
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b66778afd13d4b0800000000000000
+      internalID: -5416952964944860368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cecile_Walk_11
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 542
+        width: 380
+        height: 542
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69b952642de25570800000000000000
+      internalID: 8454080191052495214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cecile_Walk_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 380
+        height: 542
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8addbbcc28aaa04f0800000000000000
+      internalID: -861688899930694232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Cecile_Walk_1: 8664500452815858752
+      Cecile_Walk_12: -861688899930694232
+      Cecile_Walk_3: -4139361941662552365
+      Cecile_Walk_0: -830063388655368686
+      Cecile_Walk_5: -2273929583560448338
+      Cecile_Walk_8: -7689476774493818555
+      Cecile_Walk_6: 7084896357900784772
+      Cecile_Walk_7: -7888824920488118323
+      Cecile_Walk_11: 8454080191052495214
+      Cecile_Walk_4: -5454742286028295232
+      Cecile_Walk_9: 5598024427028462735
+      Cecile_Walk_2: -636620749372177341
+      Cecile_Walk_10: -5416952964944860368
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

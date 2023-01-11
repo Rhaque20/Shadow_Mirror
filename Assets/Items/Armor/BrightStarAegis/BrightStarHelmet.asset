@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e1778eab2e0cec46b5bbe320497a484, type: 3}
+  m_Name: BrightStarHelmet
+  m_EditorClassIdentifier: 
+  grade: 3
+  icon: {fileID: -382113343, guid: 07179a3efa778364a8d8756c37f5f4e6, type: 3}
+  name: Bright Star Helmet
+  description: 
+  level: 45
+  active: 10
+  statval:
+  - 345
+  - 0.04
+  - 0.04
+  - 0.05
+  stat: 00000000010000000400000006000000
+  statrarity: 00000000030000000300000001000000
+  upgrades:
+  - 0
+  - 0
+  - 0
+  - 0
+  slot: 0
+  set: 0
+  enhancelevel: 0
+  totalXP: 0

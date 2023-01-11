@@ -1,0 +1,463 @@
+fileFormatVersion: 2
+guid: 1d1a4c3c8776b584a990c9902d913252
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4329347359756657923
+    second: Cecile_Run_0
+  - first:
+      213: -1727077938706753918
+    second: Cecile_Run_1
+  - first:
+      213: -6541692265597320486
+    second: Cecile_Run_2
+  - first:
+      213: 7885998820049082051
+    second: Cecile_Run_3
+  - first:
+      213: 2114285816223594279
+    second: Cecile_Run_4
+  - first:
+      213: 6768378447524556268
+    second: Cecile_Run_5
+  - first:
+      213: -432311362452566034
+    second: Cecile_Run_6
+  - first:
+      213: -4893608950549999391
+    second: Cecile_Run_7
+  - first:
+      213: -7235071465813534095
+    second: Cecile_Run_8
+  - first:
+      213: 2015769125576172645
+    second: Cecile_Run_9
+  - first:
+      213: -8239978186002879775
+    second: Cecile_Run_10
+  - first:
+      213: 5457434675580379053
+    second: Cecile_Run_11
+  - first:
+      213: 2824642414362932673
+    second: Cecile_Run_12
+  - first:
+      213: -9177546050715118172
+    second: Cecile_Run_13
+  - first:
+      213: -8160168683754965136
+    second: Cecile_Run_14
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cecile_Run_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 934
+        width: 590
+        height: 467
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfadd60a3811be3c0800000000000000
+      internalID: -4329347359756657923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cecile_Run_1
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 934
+        width: 590
+        height: 467
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28658f3e3cf2808e0800000000000000
+      internalID: -1727077938706753918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cecile_Run_2
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 934
+        width: 590
+        height: 467
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2c6273b8d3735a0800000000000000
+      internalID: -6541692265597320486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cecile_Run_3
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 934
+        width: 590
+        height: 467
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6dc202522b07d60800000000000000
+      internalID: 7885998820049082051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cecile_Run_4
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 934
+        width: 590
+        height: 467
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72777a57fb3775d10800000000000000
+      internalID: 2114285816223594279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cecile_Run_5
+      rect:
+        serializedVersion: 2
+        x: 2950
+        y: 934
+        width: 590
+        height: 467
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced6c1e665c1eed50800000000000000
+      internalID: 6768378447524556268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cecile_Run_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 467
+        width: 590
+        height: 467
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef46a83b1f100af0800000000000000
+      internalID: -432311362452566034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cecile_Run_7
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 467
+        width: 590
+        height: 467
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e09bc04698661cb0800000000000000
+      internalID: -4893608950549999391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cecile_Run_8
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 467
+        width: 590
+        height: 467
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a9e9bb5dcd79b90800000000000000
+      internalID: -7235071465813534095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cecile_Run_9
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 467
+        width: 590
+        height: 467
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564ea27f65379fb10800000000000000
+      internalID: 2015769125576172645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cecile_Run_10
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 467
+        width: 590
+        height: 467
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eaa4524f77b5ad80800000000000000
+      internalID: -8239978186002879775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cecile_Run_11
+      rect:
+        serializedVersion: 2
+        x: 2950
+        y: 467
+        width: 590
+        height: 467
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf1ed63ce3bcbb40800000000000000
+      internalID: 5457434675580379053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cecile_Run_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 590
+        height: 467
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5ba9d6f45233720800000000000000
+      internalID: 2824642414362932673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cecile_Run_13
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 0
+        width: 590
+        height: 467
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a51659dd7ec2a080800000000000000
+      internalID: -9177546050715118172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Cecile_Run_4: 2114285816223594279
+      Cecile_Run_6: -432311362452566034
+      Cecile_Run_12: 2824642414362932673
+      Cecile_Run_13: -9177546050715118172
+      Cecile_Run_11: 5457434675580379053
+      Cecile_Run_1: -1727077938706753918
+      Cecile_Run_3: 7885998820049082051
+      Cecile_Run_9: 2015769125576172645
+      Cecile_Run_8: -7235071465813534095
+      Cecile_Run_10: -8239978186002879775
+      Cecile_Run_7: -4893608950549999391
+      Cecile_Run_5: 6768378447524556268
+      Cecile_Run_2: -6541692265597320486
+      Cecile_Run_0: -4329347359756657923
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,310 @@
+fileFormatVersion: 2
+guid: 3299ca8a189607b439fc458dcd4e2252
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2861611272650522523
+    second: CecileIdle_0
+  - first:
+      213: 5509139823333971324
+    second: CecileIdle_1
+  - first:
+      213: 7310124010473329829
+    second: CecileIdle_2
+  - first:
+      213: -1122500210302028325
+    second: CecileIdle_3
+  - first:
+      213: 811574319429172687
+    second: CecileIdle_4
+  - first:
+      213: -2795263198273617512
+    second: CecileIdle_5
+  - first:
+      213: -7588028881629922207
+    second: CecileIdle_6
+  - first:
+      213: -7376281374375490650
+    second: CecileIdle_7
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CecileIdle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 542
+        width: 380
+        height: 542
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560896085b38948d0800000000000000
+      internalID: -2861611272650522523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CecileIdle_1
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 542
+        width: 380
+        height: 542
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7597cb0b75647c40800000000000000
+      internalID: 5509139823333971324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CecileIdle_2
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 542
+        width: 380
+        height: 542
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4115c8e07c27560800000000000000
+      internalID: 7310124010473329829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CecileIdle_3
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 542
+        width: 380
+        height: 542
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd575a881041c60f0800000000000000
+      internalID: -1122500210302028325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CecileIdle_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 380
+        height: 542
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcdb76a2b8a434b00800000000000000
+      internalID: 811574319429172687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CecileIdle_5
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 0
+        width: 380
+        height: 542
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891cd2d5eea3539d0800000000000000
+      internalID: -2795263198273617512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CecileIdle_6
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 0
+        width: 380
+        height: 542
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c3b0d6fe7e1b690800000000000000
+      internalID: -7588028881629922207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CecileIdle_7
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 0
+        width: 380
+        height: 542
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6abc405db2f22a990800000000000000
+      internalID: -7376281374375490650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CecileIdle_5: -2795263198273617512
+      CecileIdle_1: 5509139823333971324
+      CecileIdle_4: 811574319429172687
+      CecileIdle_6: -7588028881629922207
+      CecileIdle_3: -1122500210302028325
+      CecileIdle_7: -7376281374375490650
+      CecileIdle_0: -2861611272650522523
+      CecileIdle_2: 7310124010473329829
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

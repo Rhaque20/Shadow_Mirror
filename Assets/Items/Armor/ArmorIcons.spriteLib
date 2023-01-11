@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 36
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5e6fedc2472449cead18ef23b5cb30d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Library:
+  - m_Name: BrightStar
+    m_Hash: -2038596531
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: Helmet
+      m_Hash: 2097605520
+      m_Sprite: {fileID: -382113343, guid: 07179a3efa778364a8d8756c37f5f4e6, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -382113343, guid: 07179a3efa778364a8d8756c37f5f4e6, type: 3}
+    - m_Name: Chestplate
+      m_Hash: 322501777
+      m_Sprite: {fileID: -1876009489, guid: 07179a3efa778364a8d8756c37f5f4e6, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1876009489, guid: 07179a3efa778364a8d8756c37f5f4e6, type: 3}
+    - m_Name: Boots
+      m_Hash: 1182796552
+      m_Sprite: {fileID: -1333740523, guid: 07179a3efa778364a8d8756c37f5f4e6, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -1333740523, guid: 07179a3efa778364a8d8756c37f5f4e6, type: 3}
+    - m_Name: Necklace
+      m_Hash: -1412164797
+      m_Sprite: {fileID: 0}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 0}
+    - m_Name: Ring
+      m_Hash: 804149832
+      m_Sprite: {fileID: 0}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 0}
+    - m_Name: Belt
+      m_Hash: -1067067409
+      m_Sprite: {fileID: -469091538, guid: 07179a3efa778364a8d8756c37f5f4e6, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -469091538, guid: 07179a3efa778364a8d8756c37f5f4e6, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 6
+  m_PrimaryLibraryGUID: 

@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d76cd5094df5174d9615e48fbaf2c55, type: 3}
+  m_Name: FlameSpray
+  m_EditorClassIdentifier: 
+  name: 
+  power: 1.1
+  Icon: {fileID: 0}
+  targetZone:
+    serializedVersion: 2
+    m_Bits: 64
+  spCost: 0
+  spGain: 0
+  ATKSPD: 2
+  attackAnim:
+  - {fileID: 7400000, guid: 8f8206bbfb0ed844088d3394da4a269a, type: 2}
+  - {fileID: 7400000, guid: e63740a3f09e5604f976b654544b373c, type: 2}
+  chains: []
+  chainLevel: 
+  showTelegraph: 1
+  affinity: 1
+  aim: 0
+  numMarkers: 1
+  markerScales:
+  - {x: 4.4, y: 2.4}
+  strong: 01
+  useAnimLength: 1

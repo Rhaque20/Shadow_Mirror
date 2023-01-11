@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18d4b2c0124608b4e9d1f85d779a6d8f, type: 3}
+  m_Name: EarthRenderer
+  m_EditorClassIdentifier: 
+  name: EarthRenderer
+  power: 1.5
+  Icon: {fileID: -877229564, guid: eeecd82b6a6865d4bb4cf6de2b1b085d, type: 3}
+  SPcost: 100
+  element: 3
+  attackAnim:
+  - {fileID: 7400000, guid: 15fc811d43a8bb34db8d4cd2a8117234, type: 2}
+  - {fileID: 7400000, guid: 265b570cb65724048869009868689732, type: 2}
+  skillchain: 00000000ffffffffffffffff
+  chains:
+  - {fileID: 11400000, guid: b99482fa1f18acd4e84388377b0dda1a, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  special: 0
+  t: 02000000
+  elevation: 1

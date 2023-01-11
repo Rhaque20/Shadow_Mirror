@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d76cd5094df5174d9615e48fbaf2c55, type: 3}
+  m_Name: WolfHowl
+  m_EditorClassIdentifier: 
+  name: Wolf Howl
+  power: 0
+  Icon: {fileID: 0}
+  targetZone:
+    serializedVersion: 2
+    m_Bits: 128
+  spCost: 0
+  spGain: 0
+  ATKSPD: 1
+  element: 0
+  attackAnim:
+  - {fileID: 7400000, guid: 93276e36fe2e5634fadc5aaf7c403e0d, type: 2}
+  - {fileID: 7400000, guid: 85adcb688924e9f4b900776cb7bbf6cb, type: 2}
+  chains:
+  - {fileID: 11400000, guid: 226cd9c3a521941408c83bcc38cf5700, type: 2}
+  chainLevel: 02000000
+  showTelegraph: 1
+  aim: 0
+  numMarkers: 1
+  markerScales:
+  - {x: 2, y: 1.5}
+  strong: 00
+  useAnimLength: 1
